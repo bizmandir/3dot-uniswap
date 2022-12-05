@@ -19,7 +19,7 @@ const Model = ({ setOpenModel, connectWallet }) => {
               alt="logo"
               width={50}
               height={50}
-              onClick={() => setOpenModel(true)}
+              onClick={() => setOpenModel(false)}
             />
           </div>
         </div>
